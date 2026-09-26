@@ -11,12 +11,21 @@ LICENSE
 The core software is licensed under GNU Affero General Public License
 Version 3 only (AGPL-3.0-only). See LICENSE.
 
+The project may separately offer a Confidential Deployment License for
+qualified environments with genuine legal, confidentiality, classified-
+information, or security constraints. Such a license is an independent
+written license and is NOT an exception automatically granted under AGPL.
+
+See:
+docs/LICENSING.md
+
 SOURCE ATTRIBUTION NOTICE
 -------------------------
 When redistributing or modifying YirenTender, or operating a modified
 version where Appropriate Legal Notices are presented, preserve the
 original copyright and license notices and identify YirenTender as the
-original upstream project.
+original upstream project to the extent required by the applicable
+license and law.
 
 Recommended attribution:
 
@@ -26,14 +35,34 @@ Recommended attribution:
 Modified versions should clearly state that they have been modified and
 must not imply that they are official releases of the YirenTender project.
 
+For a separately signed Confidential Deployment License, attribution may
+be limited to internal asset/source records when public attribution would
+conflict with legitimate security or confidentiality requirements.
+
 This attribution notice is intended to operate as a reasonable legal
 notice / author attribution consistent with Section 7(b) of AGPL-3.0.
+
+CONTRIBUTOR RIGHTS
+------------------
+Important external contributions are governed by the YirenTender
+Contributor License Agreement (CLA.md). Contributors retain copyright
+while granting the project rights necessary for continued open-source
+distribution and permitted relicensing.
 
 THIRD-PARTY MATERIAL
 --------------------
 Government publications, laws and regulations, standards, third-party
-templates and other externally sourced materials do not automatically
-become YirenTender-owned works by being referenced or included.
+templates, libraries, fonts, icons and other externally sourced materials
+do not automatically become YirenTender-owned works by being referenced
+or included.
 
 Their original source, copyright status and applicable terms must be
 respected and recorded separately.
+
+NO OFFICIAL ENDORSEMENT
+-----------------------
+YirenTender is a community open-source project. It must not be represented
+as an official system or endorsement of any government authority,
+regulator, public resource trading platform, procurement platform,
+military organization, or other public body unless such authorization
+actually exists in writing.
