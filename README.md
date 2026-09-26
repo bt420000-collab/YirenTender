@@ -114,6 +114,24 @@ YirenTender V0.1 **不试图替代**公共资源交易平台、政府采购平�
 
 请保留项目来源、版权及许可证声明。具体见 [NOTICE](NOTICE)。
 
+
+
+### 双轨许可与特殊保密部署
+
+YirenTender 公共核心继续采用 **AGPL-3.0-only**。
+
+对于确有法律、涉密、保密或特殊安全要求，无法按照默认 AGPL 条件部署的环境，项目可以在权利完整的前提下另行签署 **YirenTender Confidential Deployment License**。
+
+这不是 AGPL 的自动例外，也不会影响已经按照 AGPL 获得公共版本的用户权利。
+
+为保证未来社区贡献能够合法进入公共版本及必要的特别许可版本，重要外部贡献采用 CLA 机制，贡献者保留版权。
+
+详见：
+
+- [许可与特殊部署政策](docs/LICENSING.md)
+- [Contributor License Agreement](CLA.md)
+
+
 ## 重要说明
 
 YirenTender 是**民间发起的公益开源项目**，不是政府机关、监管部门、公共资源交易平台或政府采购平台的官方系统，也不代表任何上述机构的官方立场。
